@@ -27,7 +27,7 @@ Examples
 Quick start - Server
 --------------------
 
-`cd src/server && ./server.py 0.0.0.0:31425`
+`server/server.py 0.0.0.0:31425`
 
 License
 -------
