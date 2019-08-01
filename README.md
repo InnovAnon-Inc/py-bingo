@@ -4,15 +4,15 @@ Py-Bingo - Python Bingo implementation
 Install
 -------
 
-`pip install py-bingo`
+`pip install py-bingo-server`
 
 or
 
-`easy_install py-bingo`
+`easy_install py-bingo-server`
 
 or
 
-`pip3 install py-bingo`
+`pip3 install py-bingo-server`
 
 
 ### From source
@@ -28,11 +28,6 @@ Quick start - Server
 --------------------
 
 `cd src/server && ./server.py 0.0.0.0:31425`
-
-Quick start - Client
---------------------
-
-`cd src/client && ./client.py localhost:31425`
 
 License
 -------
