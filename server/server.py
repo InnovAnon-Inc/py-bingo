@@ -46,7 +46,8 @@ class BingoServer(Server):
         #game  = None
         q     = None
         #T     = 0.0001
-        T     = 1.5
+        #T     = 1.5
+        T     = 10
 
         while True:
             self.Pump()
