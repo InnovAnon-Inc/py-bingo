@@ -5,4 +5,6 @@ PodSixNet.egg-info
 *.sublime-workspace
 MANIFEST
 dist
+build
 version.py
+gmon.out
